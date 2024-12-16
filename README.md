@@ -40,7 +40,7 @@ This is a 2D platformer game developed in **Godot 4**, where the player controls
 
 ## 🛠️ **Tech Stack**  
 - **Engine**: Godot 4  
-- **Sprites**: Created with PiskelApp  
+- **Sprites**: Created with PiskelApp and Web File 
 - **Language**: GDScript  
 
 ---
