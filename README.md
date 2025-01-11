@@ -1,7 +1,8 @@
 the .exe file is in platformer folder , the game folder is over 25 MB thats why I did that . you can see the scripts on the .gd files 
 
 # Knight Adventure Game 🏰  
-This is a 2D platformer game developed in **Godot 4**, where the player controls a knight who collects coins, navigates platforms, and aims to reach the final flag to win the game.   
+This is a 2D platformer game developed in **Godot 4**, where the player controls a knight who collects coins, navigates platforms, and aims to reach the final flag to win the game.  
+i did the game as part of my course that i did in Cyprus in game DEV .
 
 ---
 
